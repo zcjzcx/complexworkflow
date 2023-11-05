@@ -2,7 +2,7 @@ name: Complex
 on: push
 jobs:
   ubuntu: 
-    runs-on: unbuntu-latest
+    runs-on: ubuntu-latest
       steps:
       -run: date
   windows: 
